@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YuniquePLM.Mobility.Images.iOS/ImageGridScreen.cs">
+    <Files>
+      <File FileName="../../Yunique.Mobility.Common/YuniquePLM.Mobility.Common.iOS/UIViews/YuFlyoutViewController.cs" Line="1" Column="1" />
+      <File FileName="../../Yunique.Mobility.Common/YuniquePLM.Mobility.Common.iOS/Screens/LoginScreen.cs" Line="1" Column="1" />
+      <File FileName="../../Yunique.Mobility.Common/YuniquePLM.Mobility.Common.iOS/UIViews/YuNavigationController.cs" Line="1" Column="1" />
+      <File FileName="YuniquePLM.Mobility.YuStyle.iOS/LineListDialogScreen.cs" Line="174" Column="5" />
+      <File FileName="YuniquePLM.Mobility.Images.iOS/ImageGridScreen.cs" Line="119" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/ios/YuniquePLM.Mobility.Common.iOS/UIViews/Table/TableViewCell.cs" line="94" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/ios/YuniquePLM.Mobility.Common.iOS/UIViews/Table/TableViewCell.cs" line="109" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/BitBucket.cs" line="217" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/YuniquePLM.Mobility.Core.Images.iOS/ImageCache/ImageCacheManager.cs" line="48" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/ios/YuniquePLM.Mobility.Images.iOS/ImageGridScreen.cs" line="197" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/YuniquePLM.Mobility.Core.Images.iOS/ImageCatalogManager.cs" line="3" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/YuniquePLM.Mobility.Core.Images.iOS/ImageCatalogItemManager.cs" line="22" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/YuniquePLM.Mobility.Core.Images.iOS/ImageCatalogItemManager.cs" line="41" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/core/ParamBuilder.cs" line="47" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/ios/YuniquePLM.Mobility.Images.iOS/ImageUploader.cs" line="198" column="1" />
+      <Breakpoint file="/Users/ravenlock/Documents/Work/SourceCode/github/chimera/ios/YuniquePLM.Mobility.Images.iOS/ImageUploader.cs" line="130" column="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../core/l10n.cs" line="31" offsetX="1028" offsetY="450" expression="Info.PLMSystem.TranslationRequests" liveUpdate="False" />
+    <Watch file="../core/ServiceHelper.cs" line="808" offsetX="530" offsetY="11880" expression="hwReq" liveUpdate="False" />
+    <Watch file="YuniquePLM.Mobility.Common.iOS/UIViews/Table/TableViewCell.cs" line="79" offsetX="692" offsetY="1170" expression="uri" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Apps.YuniquePLM.Mobility.YuStyle.iOS>
+    <IPhoneTestFlightSettings_27CAd-Hoc ApiToken="97bc5fceb215cc362f7a0a2b2b278def_MTA5OTU2NzIwMTMtMDYtMDggMDk6NTc6NTAuMjAzMzc2" TeamToken="9d150a49fca1186ee1dbf5283c6ddd02_MjM0MTQ5MjAxMy0wNi0wOCAxMDowNTozNS4yMTA4MjI" ReleaseNotes="YuStyle v0.1.2 (AGAIN)&#xA;&#xA;Latest and Greatest.  This is the REAL deal.  Please install AND provide feedback at this time.  An honest attempt to complete all features as spec'd has been made." NotifyTeamMembers="True" ReplaceBinaries="False" DistributionLists="Gerber_Internal" />
+  </MonoDevelop.Ide.ItemProperties.Apps.YuniquePLM.Mobility.YuStyle.iOS>
+</Properties>
